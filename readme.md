@@ -1,4 +1,4 @@
-# Project realised for the tutored project in computer science
+# Project made for the tutored project in computer science
 
 
 The goal of this project was to determine spatial relations between objects, given an image.
